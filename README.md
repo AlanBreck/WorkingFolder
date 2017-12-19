@@ -14,7 +14,7 @@ In Terminal/Git Bash, with your Desktop as current directory:
 
 ## Benefits
 
-This gives you shorcuts, and convenient ways not to lose your work. It gets you on the fast track, basically!
+This gives you shortcuts, and convenient ways not to lose your work. It gets you on the fast track, basically!
 
 ## Git Aliases
 
