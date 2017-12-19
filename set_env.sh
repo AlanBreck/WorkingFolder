@@ -3,6 +3,10 @@
 # updating ~.bash_profile if necessary
 export WF=~/Desktop/WorkingFolder
 
+# git aliases
+alias gs="git status"
+alias gwip="git add . && git commit -a -m WIP --no-verify"
+
 # > echo `act pupster`
 function act {
     find . -type d -iname \*$1\*
