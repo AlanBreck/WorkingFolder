@@ -1,7 +1,7 @@
 # Begin WorkingFolder h4x
 # Edit this to your machine, if necessary,
 # updating ~.bash_profile if necessary
-export WF=~/Desktop/WorkingFolder
+export WF=~/bootcamp/WorkingFolder
 
 # git aliases
 alias gs="git status"
