@@ -5,8 +5,9 @@
 In Terminal/Git Bash, with your Desktop as current directory:
 
 ```
-> cd ~/Desktop
-> git clone https://github.com/deanius/WorkingFolder
+> mkdir ~/bootcamp
+> cd ~/bootcamp
+> git clone https://github.com/AlanBreck/WorkingFolder.git
 > cd WorkingFolder
 > cat ./set_env.sh | bash              # load env vars in this shell
 > cat ./set_env.sh >> ~/.bash_profile  # load env vars in all future shells
@@ -29,7 +30,7 @@ This will set you up with an environment variable `$WF` which will be used to do
 > cp -r 01-html-css-bootstrap/01-Activity/ $WF/week1
 ```
 
-What does that do? Copies, with all subfolders _(recursively)_, into the `week1` subfolder of `~/Desktop/WorkingFolder`.
+What does that do? Copies, with all subfolders _(recursively)_, into the `week1` subfolder of `~/bootcamp/WorkingFolder`.
 
 ## Folder Structure
 
