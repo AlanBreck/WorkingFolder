@@ -27,7 +27,7 @@ This gives you shortcuts, and convenient ways not to lose your work. It gets you
 This will set you up with an environment variable `$WF` which will be used to do things like:
 
 ```
-> cp -r 01-Class-Content/01-html-git-css/01-Activities/ $WF/week01
+cp -r 01-Class-Content/01-html-git-css/01-Activities/ $WF/week01
 ```
 
 What does that do? Copies, with all subfolders _(recursively)_, into the `week01` subfolder of `~/bootcamp/WorkingFolder`.
